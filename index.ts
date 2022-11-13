@@ -1,5 +1,6 @@
 const SomeObject = {
   name: 'Jake',
-  age: 40
+  lastName: 'Toolson',
+  age: 41
 }
 
